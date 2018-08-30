@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-메인 페이지
+메인 페이지로그인 기능 추가
 
 </body>
 </html>
